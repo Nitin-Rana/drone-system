@@ -1,0 +1,24 @@
+raspberrypi- hostname
+pi- username
+123pi
+
+169.254.39.31
+....
+192.168.39.12 - vnc
+....
+systemctl status mosquitto.service
+...
+right usb port- com6
+left usb port- com3
+...
+28.3588° N, 75.5880° E
+N- latitude
+E- Longitude
+...
+links-
+https://www.instructables.com/How-to-Use-MQTT-With-the-Raspberry-Pi-and-ESP8266/
+https://techatronic.com/hc-sr04-ultrasonic-sensor-working-with-esp8266-nodemcu/#:~:text=Connect%20the%20VCC%20pin%20of,shown%20above%20in%20the%20diagram.
+...
+mosquitto login-
+username- drone
+password- drone123
